@@ -7,7 +7,7 @@
 - 👩‍💻  Fun fact: I remote pair programmed so far this year with people in...
   
 | Region   |      Cities      |  Flag |
-|----------|:-------------:|------:|
+|:----------|:-------------|:------:|
 | UK |  London |🇬🇧 |
 | Germany |  Berlin |🇩🇪 |
 | Kenya |  Nairobi |🇰🇪|
