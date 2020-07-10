@@ -4,16 +4,14 @@
 - 🌱  I’m currently learning Azure Batch
 - 👯  I’m looking to collaborate on identifying patterns for pipelines
 - 🌲  Ask me about [CarbonDown](https://www.carbondownapp.com/)
-- 👩‍💻  Fun fact: I remote pair programmed so far this year with people in
-  - London, UK
-  - New York City, NY
-  - Cambridge, MA
-  - Reston, VA
-  - Grand Rapids, MI
-  - Colorado Springs, CO
-  - San Francisco, CA
-  - Palo Alto, CA
-  - San Diego, CA
-  - Seattle, WA
-  - Provo, UT
-  - Nairobi, Kenya
+- 👩‍💻  Fun fact: I remote pair programmed so far this year with people in...
+  
+| Region   |      Cities      |  Flag |
+|----------|:-------------:|------:|
+| UK |  London |🇬🇧 |
+| Germany |  Berlin |🇩🇪 |
+| Kenya |  Nairobi |🇰🇪|
+| US East |    Brooklyn, Cambridge, Washington DC   |  🇺🇸 |
+| US Central |  Grand Rapids, Colorado Springs,  Provo |🇺🇸 |
+| US West |  San Diego, Palo Alto, SF, Seattle |🇺🇸 |
+
