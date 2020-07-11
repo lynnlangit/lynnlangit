@@ -1,7 +1,7 @@
 ### 👋 Hiya | Hallo | Olá | Kumusta | హలో | Здраво
 
-- 🔭  I’m building genomic-scale cloud pipelines for bioinformatics research on GCP, AWS or Azure
-- 👯  I’m collaborating on pipelines -> patterns for optimization (run time/cost) & tools for distributed systems visualization
+- 🔭  Building genomic-scale cloud pipelines for bioinformatics research on GCP, AWS or Azure
+- 👯  Collaborating on pipelines -> patterns for optimization (run time/cost) & tools for distributed systems visualization
 - 🌲  Ask me about trying out the iPhone beta for [CarbonDown](https://www.carbondownapp.com/)
 - 👩‍💻  Fun fact: I remote pair programmed so far this year with people in...
   - 🇬🇧  UK, London 
