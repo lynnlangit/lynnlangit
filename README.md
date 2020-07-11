@@ -1,4 +1,4 @@
-### 👋 Hiya | Hallo | Olá | Kumusta | Hei! 
+### 👋 Hiya | Hallo | Olá | Kumusta | హలో 
 
 - 🔭  I’m building genomic-scale cloud pipelines for bioinformatics research on GCP, AWS or Azure
 - 👯  I’m collaborating on pipelines -> patterns for optimization (run time/cost) & tools for distributed systems visualization
