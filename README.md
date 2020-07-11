@@ -1,7 +1,7 @@
 ### 👋 Hiya | Hallo | Olá | Kumusta | హలో | Здраво
 
 ---
-<img src="https://github.com/lynnlangit/lynnlangit/blob/master/badges/lynn.jpg" width="290" align="left">
+<img src="https://github.com/lynnlangit/lynnlangit/blob/master/badges/lynn.jpg" width="290" align="right">
 
 - 🔭  Building genomic-scale cloud pipelines for bioinformatics research on GCP, AWS or Azure
 - 👯  Collaborating on pipelines -> patterns for optimization (run time/cost) & tools for distributed systems visualization
@@ -14,6 +14,8 @@
     - East - Brooklyn, Cambridge, Washington DC   
     - Central - Grand Rapids, Colorado Springs,  Provo 
     - West - San Diego, Palo Alto, SF, Seattle 
+    
+    
 ---
 [![AWS Community Hero](https://github.com/lynnlangit/lynnlangit/blob/master/badges/aws.svg)](https://aws.amazon.com/developer/community/heroes/lynn-langit/)
 [![MSFT RD](https://github.com/lynnlangit/lynnlangit/blob/master/badges/azure.svg)](https://rd.microsoft.com/en-us/lynn-langit)
