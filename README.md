@@ -1,6 +1,6 @@
 ### 👋 Hiya | Hallo | Olá | Kumusta | హలో | Здраво
 
-<img src="https://github.com/lynnlangit/lynnlangit/raw/master/badges/lynn.png" width="390" align="right">
+<img src="https://github.com/lynnlangit/lynnlangit/blob/master/badges/lynn.png" width="390" align="right">
 
 - 🔭  Building genomic-scale cloud pipelines for bioinformatics research on GCP, AWS or Azure
 - 👯  Collaborating on pipelines -> patterns for optimization (run time/cost) & tools for distributed systems visualization
