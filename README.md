@@ -1,5 +1,7 @@
 ### 👋 Hiya | Hallo | Olá | Kumusta | హలో | Здраво
 
+<img src="https://github.com/lynnlangit/lynnlangit/raw/master/badges/lynn.png" width="390" align="right">
+
 - 🔭  Building genomic-scale cloud pipelines for bioinformatics research on GCP, AWS or Azure
 - 👯  Collaborating on pipelines -> patterns for optimization (run time/cost) & tools for distributed systems visualization
 - 🌲  Ask me about trying out the iPhone beta for [CarbonDown](https://www.carbondownapp.com/)
@@ -11,6 +13,8 @@
     - East - Brooklyn, Cambridge, Washington DC   
     - Central - Grand Rapids, Colorado Springs,  Provo 
     - West - San Diego, Palo Alto, SF, Seattle 
+    
+
   
 ---
 
