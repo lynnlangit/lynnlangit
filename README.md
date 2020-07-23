@@ -3,9 +3,11 @@
 ---
 <img src="https://github.com/lynnlangit/lynnlangit/blob/master/badges/lynn.jpg" width="290" align="right">
 
-- 🔭  Building genomic-scale cloud pipelines for bioinformatics research on GCP, AWS or Azure
-- 👯  Collaborating on pipelines -> patterns for optimization (run time/cost) & tools for distributed systems visualization
-- 🌲  Ask me about trying out the iPhone beta for [CarbonDown](https://www.carbondownapp.com/)
+- 🔭  Building genomic-scale cloud pipelines for bioinformatics on GCP, AWS or Azure
+- 👯  Collaborating on pipelines
+  - patterns for optimization (run time/cost)
+  - tools for distributed systems visualization
+- 🌲  Ask me about trying out the iPhone beta for [CarbonDown](https://apps.apple.com/us/app/carbon-down/id1493321968)
 - 👩‍💻  Fun fact: I remote pair programmed so far in 2020 with people in...
   - 🇬🇧  UK, London 
   - 🇩🇪  Germany, Berlin 
