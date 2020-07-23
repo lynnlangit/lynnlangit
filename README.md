@@ -3,7 +3,7 @@
 ---
 <img src="https://github.com/lynnlangit/lynnlangit/blob/master/badges/lynn.jpg" width="290" align="right">
 
-- 🔭  Building genomic-scale cloud pipelines for bioinformatics on GCP, AWS or Azure
+- 🔭  Building genomic-scale cloud pipelines for bioinformatics
 - 👯  Collaborating on pipelines
   - patterns for optimization (run time/cost)
   - tools for distributed systems visualization
