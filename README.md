@@ -5,8 +5,6 @@
 
 - 🔭  Building genomic-scale cloud pipelines for bioinformatics
 - 👯  Collaborating on pipelines
-  - patterns for optimization (run time/cost)
-  - tools for distributed systems visualization
 - 🌲  Ask me about trying out the iPhone beta for [CarbonDown](https://apps.apple.com/us/app/carbon-down/id1493321968)
 - 👩‍💻  Fun fact: I remote pair programmed so far in 2020 with people in...
   - 🇬🇧  UK, London 
