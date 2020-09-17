@@ -1,7 +1,7 @@
 ### 👋 Hiya | Hallo | Olá | Kumusta | హలో | Здраво
 
 ---
-<img src="https://github.com/lynnlangit/lynnlangit/blob/master/badges/lynn.jpg" width="290" align="right">
+[!Lynn Langit](<img src="https://github.com/lynnlangit/lynnlangit/blob/master/badges/lynn.jpg" width="290" align="right">)](https://www.lynnlangit.com)
 
 - 🔭  **Building:** genomic-scale cloud pipelines for bioinformatics
 - 👯  **Teaching:** 30+ courses on LinkedIn Learning - [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit)
