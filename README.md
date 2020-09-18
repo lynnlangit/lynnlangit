@@ -4,7 +4,7 @@
 <img src="https://github.com/lynnlangit/lynnlangit/blob/master/badges/lynn.jpg" width="290" align="right">
 
 - 🔭  **Building:** genomic-scale cloud pipelines for bioinformatics
-- 👯  **Teaching:** 30+ courses on LinkedIn Learning - [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit)
+- 👯  **Teaching:** 30+ courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit)
 - 🌲  **Ask me** about my boad membership in [CarbonDown](https://www.carbondownapp.com/)
 - 👩‍💻  **Fun fact:** I remote pair programmed so far in 2020 with people in...
   - 🇬🇧  UK, London 
