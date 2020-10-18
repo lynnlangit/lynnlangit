@@ -3,7 +3,7 @@
 ---
 <img src="https://github.com/lynnlangit/lynnlangit/blob/master/badges/lynn.jpg" width="190" align="right">
 
-- 🔭  **Build:** genomic-scale cloud pipelines for bioinformatics
+- 🔭  **Build:** genomic-scale [cloud pipelines for bioinformatics](https://lynnlangit.com/2017/09/18/genomic-scale-data-pipelines/)
 - 👯  **Teach:** 30+ courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit)
 - 🌲  **Act:** take climate action via [CarbonDown](https://www.carbondownapp.com/) - I am on the board
 - 👩‍💻  **Fun fact:** I pair programmed so far in 2020 with devs in...
