@@ -5,7 +5,7 @@
 
 - 🔭  **Building:** genomic-scale cloud pipelines for bioinformatics
 - 👯  **Teaching:** 30+ courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit)
-- 🌲  **Take climate action** via [CarbonDown](https://www.carbondownapp.com/) - I am on the board
+- 🌲  **Acting:** take climate action via [CarbonDown](https://www.carbondownapp.com/) - I am on the board
 - 👩‍💻  **Fun fact:** I pair programmed so far in 2020 with devs in...
   - 🇬🇧  UK (London)
   - 🇩🇪  Germany (Berlin)
