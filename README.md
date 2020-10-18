@@ -3,9 +3,9 @@
 ---
 <img src="https://github.com/lynnlangit/lynnlangit/blob/master/badges/lynn.jpg" width="190" align="right">
 
-- 🔭  **Building:** genomic-scale cloud pipelines for bioinformatics
-- 👯  **Teaching:** 30+ courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit)
-- 🌲  **Acting:** take climate action via [CarbonDown](https://www.carbondownapp.com/) - I am on the board
+- 🔭  **Build:** genomic-scale cloud pipelines for bioinformatics
+- 👯  **Teach:** 30+ courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit)
+- 🌲  **Act:** take climate action via [CarbonDown](https://www.carbondownapp.com/) - I am on the board
 - 👩‍💻  **Fun fact:** I pair programmed so far in 2020 with devs in...
   - 🇬🇧  UK (London)
   - 🇩🇪  Germany (Berlin)
