@@ -27,8 +27,8 @@
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lynnlangit&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lynnlangit&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="lynnlangit's github stats"/>
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnlangit&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnlangit&bg_color=071A2C&text_color=FFFFFF" alt="Lynn Langit's top Languages"/>
 </p>
 </details> 
