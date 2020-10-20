@@ -22,3 +22,8 @@
 [![GCP GDE](https://github.com/lynnlangit/lynnlangit/blob/master/badges/gcp.svg)](https://developers.google.com/community/experts/directory/profile/profile-lynn_langit)
 [![Angel List](https://github.com/lynnlangit/lynnlangit/blob/master/badges/angellist.svg)](https://angel.co/u/lynn-langit)
 
+---
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lynnlangit&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynnlangit&hide=TeX&layout=compact)
+
