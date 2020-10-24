@@ -32,5 +32,4 @@
 </p>
 </details> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynnlangit&layout=compact)](https://github.com/lynnlangit/github-readme-stats)
 
