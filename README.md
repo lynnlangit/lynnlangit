@@ -11,9 +11,9 @@
   - 🇩🇪  Germany (Berlin)
   - 🇰🇪  Kenya (Nairobi) 
   - 🇺🇸  US 
-    - East - Brooklyn, Cambridge, Washington DC   
-    - Central - Grand Rapids, Colorado Springs,  Provo 
-    - West - San Diego, Palo Alto, SF, Seattle 
+    - East - NY, MA, Washington DC   
+    - Central - MN, MI, CO, UT
+    - West - CA, WA
     
     
 ---
