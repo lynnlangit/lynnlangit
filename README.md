@@ -7,9 +7,9 @@
 - 👯  **Teach:** 30+ courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit)
 - 🌲  **Act:** take climate action via [CarbonDown](https://www.carbondownapp.com/) - I am on the board
 - 👩‍💻  **Fun fact:** I pair programmed so far in 2020 with devs in...
-  - 🇩🇪  Germany (Berlin)
-  - 🇰🇪  Kenya (Nairobi) 
-  - 🇬🇧  UK (London)
+  - 🇩🇪  Germany - Berlin
+  - 🇰🇪  Kenya - Nairobi 
+  - 🇬🇧  UK - London
   - 🇺🇸  US 
     - East - MA, NY, Washington DC   
     - Central - CO, MI, MN, TN, UT
