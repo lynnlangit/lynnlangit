@@ -12,7 +12,7 @@
   - 🇰🇪  Kenya (Nairobi) 
   - 🇺🇸  US 
     - East - NY, MA, Washington DC   
-    - Central - MN, MI, CO, UT
+    - Central - CO, MI, MN, TN, UT
     - West - CA, WA
     
     
