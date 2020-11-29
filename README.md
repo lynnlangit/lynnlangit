@@ -11,7 +11,7 @@
   - 🇩🇪  Germany (Berlin)
   - 🇰🇪  Kenya (Nairobi) 
   - 🇺🇸  US 
-    - East - NY, MA, Washington DC   
+    - East - MA, NY, Washington DC   
     - Central - CO, MI, MN, TN, UT
     - West - CA, WA
     
