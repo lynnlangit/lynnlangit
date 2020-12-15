@@ -14,7 +14,7 @@
     - East - MA, NY, Washington DC   
     - Central - CO, MI, MN, TN, UT
     - West - CA, WA
-- 👩‍💻 **Code:** - Preferred Dev Envs are [VSCode](https://code.visualstudio.com/), [Codespaces](https://github.com/features/codespaces) or [Jupyter](https://jupyter.org/)
+- 👩‍💻 **Code:** preferred Dev Envs are [VSCode](https://code.visualstudio.com/), [Codespaces](https://github.com/features/codespaces) or [Jupyter](https://jupyter.org/)
     
     
 ---
