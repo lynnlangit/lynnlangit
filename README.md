@@ -2,8 +2,9 @@
 
 ---
 
-- 🔭  **Build:** genomic-scale [cloud pipelines for bioinformatics](https://lynnlangit.com/2017/09/18/genomic-scale-data-pipelines/)
+- 🔭  **Build:** genomic-scale [cloud pipelines for genomics](https://lynnlangit.com/2017/09/18/genomic-scale-data-pipelines/)
 - 👯  **Teach:** 30+ courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit)
+- 👩‍🏫 **Share** my journey into learning how to contribute to [computational bionformatics](https://github.com/lynnlangit/TeamTeri)
 - 🌲  **Act:** take climate action via [CarbonDown](https://www.carbondownapp.com/) - I am on the board
 - 👩‍💻 **Code:** preferred Dev Envs are [VSCode](https://code.visualstudio.com/), [Codespaces](https://github.com/features/codespaces) or [Jupyter](https://jupyter.org/)
     
