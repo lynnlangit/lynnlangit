@@ -14,16 +14,10 @@
 [![MSFT RD](https://github.com/lynnlangit/lynnlangit/blob/master/badges/azure.svg)](https://rd.microsoft.com/en-us/lynn-langit) 
 [![GCP GDE](https://github.com/lynnlangit/lynnlangit/blob/master/badges/gcp.svg)](https://developers.google.com/community/experts/directory/profile/profile-lynn_langit)
 [![Angel List](https://github.com/lynnlangit/lynnlangit/blob/master/badges/angellist.svg)](https://angel.co/u/lynn-langit)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lynnlangit/lynnlangit/HEAD)
+
 
 ---
 
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lynnlangit&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="lynnlangit's github stats"/>
-    <br>
-</p>
-</details> 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lynnlangit/lynnlangit/HEAD)
 
 
