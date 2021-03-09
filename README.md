@@ -14,6 +14,7 @@
 [![MSFT RD](https://github.com/lynnlangit/lynnlangit/blob/master/badges/azure.svg)](https://rd.microsoft.com/en-us/lynn-langit) 
 [![GCP GDE](https://github.com/lynnlangit/lynnlangit/blob/master/badges/gcp.svg)](https://developers.google.com/community/experts/directory/profile/profile-lynn_langit)
 [![Angel List](https://github.com/lynnlangit/lynnlangit/blob/master/badges/angellist.svg)](https://angel.co/u/lynn-langit)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lynnlangit/lynnlangit/HEAD)
 
 ---
 
