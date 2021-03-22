@@ -16,12 +16,11 @@
 - 👩‍💻 **CODE:** preferred Dev Envs are [VSCode](https://code.visualstudio.com/), [Codespaces](https://github.com/features/codespaces) or [Jupyter](https://jupyter.org/)
     
    
-
-
 ---
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lynnlangit/lynnlangit/HEAD)
 
 <p align="left"> <a href="https://twitter.com/lynnlangit" target="blank"><img src="https://img.shields.io/twitter/follow/lynnlangit?logo=twitter&style=for-the-badge" alt="lynnlangit" /></a> </p>
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lynnlangit/lynnlangit/HEAD)
 
 
