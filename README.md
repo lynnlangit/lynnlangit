@@ -21,6 +21,7 @@
 
 <p align="left"> <a href="https://twitter.com/lynnlangit" target="blank"><img src="https://img.shields.io/twitter/follow/lynnlangit?logo=twitter&style=for-the-badge" alt="lynnlangit" /></a> </p>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lynnlangit/lynnlangit/HEAD)
+<p align="right">[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lynnlangit/lynnlangit/HEAD)</p>
+
 
 
