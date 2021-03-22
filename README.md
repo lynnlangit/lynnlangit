@@ -1,5 +1,7 @@
 ### 👋 Hiya | Hallo | Olá | Kumusta | హలో | Здраво
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lynnlangit/lynnlangit/HEAD)
+
 ---
 [![AWS Community Hero](https://github.com/lynnlangit/lynnlangit/blob/master/badges/aws.svg)](https://aws.amazon.com/developer/community/heroes/lynn-langit/)
 [![MSFT RD](https://github.com/lynnlangit/lynnlangit/blob/master/badges/azure.svg)](https://rd.microsoft.com/en-us/lynn-langit) 
@@ -21,7 +23,9 @@
 
 <p align="left"> <a href="https://twitter.com/lynnlangit" target="blank"><img src="https://img.shields.io/twitter/follow/lynnlangit?logo=twitter&style=for-the-badge" alt="lynnlangit" /></a> </p>
 
-<p align="right">[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lynnlangit/lynnlangit/HEAD)</p>
+
+
+<p align="right"><a href="https://mybinder.org/v2/gh/lynnlangit/lynnlangit/HEAD"><img src="https://mybinder.org/badge_logo.svg"></p>
 
 
 
