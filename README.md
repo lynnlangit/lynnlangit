@@ -13,7 +13,7 @@
 - 🚴‍♀️ **BIKE:** I live in Minnesota (see reference below) and love to bike
 <img src="https://github.com/lynnlangit/lynnlangit/blob/master/images/where-is-mn.png" width=600>
 
-Random fun thing --> <a href="https://mybinder.org/v2/gh/lynnlangit/lynnlangit/HEAD"><img src="https://mybinder.org/badge_logo.svg">
+- 🛠️ **LAUNCH:** a Julia language Jupyter notebook from this GitHub Repo --> <a href="https://mybinder.org/v2/gh/lynnlangit/lynnlangit/HEAD"><img src="https://mybinder.org/badge_logo.svg">
   
 
 
