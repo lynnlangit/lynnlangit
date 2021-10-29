@@ -11,7 +11,7 @@
 - 🔭  **BUILD:** genomic-scale [cloud pipelines for genomics](https://lynnlangit.com/2017/09/18/genomic-scale-data-pipelines/)
 - 👯  **TEACH:** 25+ cloud and data courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit)
 - 🚴‍♀️ **BIKE:** I live in Minnesota (see reference below) and love to bike
-<img src="https://github.com/lynnlangit/lynnlangit/blob/master/images/where-is-mn.png" width=800>
+<img src="https://github.com/lynnlangit/lynnlangit/blob/master/images/where-is-mn.png" width=600>
 
 Random fun thing --> <a href="https://mybinder.org/v2/gh/lynnlangit/lynnlangit/HEAD"><img src="https://mybinder.org/badge_logo.svg">
   
