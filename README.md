@@ -1,9 +1,9 @@
 ### 👋  Hi | Hallo | Olá | Kumusta | హలో | नमस्ते | Здраво
 
 ---
-[![AWS Community Hero](https://github.com/lynnlangit/lynnlangit/blob/master/badges/aws.svg)](https://aws.amazon.com/developer/community/heroes/lynn-langit/)
+[![AWS Hero](https://github.com/lynnlangit/lynnlangit/blob/master/badges/aws.svg)](https://aws.amazon.com/developer/community/heroes/lynn-langit/)
 [![MSFT RD](https://github.com/lynnlangit/lynnlangit/blob/master/badges/azure.svg)](https://rd.microsoft.com/en-us/lynn-langit) 
-[![GCP GDE](https://github.com/lynnlangit/lynnlangit/blob/master/badges/gcp.svg)](https://developers.google.com/community/experts/directory/profile/profile-lynn_langit)
+[![GCP GDE](https://github.com/lynnlangit/lynnlangit/blob/master/badges/gcp.svg)](https://developers.google.com/community/experts/directory/profile/profile-lynn-langit)
 [![Angel List](https://github.com/lynnlangit/lynnlangit/blob/master/badges/angellist.svg)](https://angel.co/u/lynn-langit)
 
 - 👩‍💻  **CODE:** preferred Dev Envs are [VSCode](https://code.visualstudio.com/), [Codespaces](https://github.com/features/codespaces) or [Jupyter](https://jupyter.org/)
