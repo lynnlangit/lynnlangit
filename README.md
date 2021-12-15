@@ -8,7 +8,7 @@
 
  <img src="https://github.com/lynnlangit/lynnlangit/blob/master/images/where-is-mn.png" width=300 align=right>
 
-- 👩‍💻  **CODE:** preferred Dev Envs are [VSCode](https://code.visualstudio.com/), [Codespaces](https://github.com/features/codespaces) or [Jupyter](https://jupyter.org/)
+- 👩‍💻  **CODE:** responsibly, learn more about [ethical AI](https://github.com/lynnlangit/learning-ethical-ai)
 - 👩‍🏫  **LEARN:** learning how to contribute to [computational bionformatics](https://github.com/lynnlangit/TeamTeri)
 - 🔭  **BUILD:** genomic-scale [cloud pipelines for genomics](https://lynnlangit.com/2017/09/18/genomic-scale-data-pipelines/)
 - 👯  **TEACH:** 25+ cloud & data courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit)
