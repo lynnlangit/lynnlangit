@@ -1,4 +1,4 @@
-### 👋  Hi | Hallo | Olá | Kumusta | హలో | नमस्ते | Здраво
+### 👋  Hi | Hallo | Olá | Kumusta | హలో | नमस्ते 
 
 ---
 [![AWS Hero](https://github.com/lynnlangit/lynnlangit/blob/master/badges/aws.svg)](https://aws.amazon.com/developer/community/heroes/lynn-langit/)
