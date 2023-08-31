@@ -9,8 +9,6 @@
 - 🔭  **BUILD:** genomic-scale [cloud pipelines for genomics](https://lynnlangit.com/2017/09/18/genomic-scale-data-pipelines/)
 - 👯  **TEACH:** 25+ cloud & data courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit)
 - 🚴‍♀️ **BIKE:** I live in Minnesota (see map on the right) and love to bike
-- 🛠️ **LAUNCH:** a JULIA notebook from this Repo --> <a href="https://mybinder.org/v2/gh/lynnlangit/lynnlangit/HEAD"><img src="https://mybinder.org/badge_logo.svg">
- 
 ---
  
 [![AWS Hero](https://github.com/lynnlangit/lynnlangit/blob/master/badges/aws.svg)](https://aws.amazon.com/developer/community/heroes/lynn-langit/)
