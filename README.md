@@ -12,7 +12,7 @@
 ---
  
 [![AWS Hero](https://github.com/lynnlangit/lynnlangit/blob/master/badges/aws.svg)](https://aws.amazon.com/developer/community/heroes/lynn-langit/)
-[![MSFT RD](https://github.com/lynnlangit/lynnlangit/blob/master/badges/azure.svg)](https://rd.microsoft.com/en-us/lynn-langit) 
+[![MSFT RD](https://github.com/lynnlangit/lynnlangit/blob/master/badges/azure.svg)]([https://rd.microsoft.com/en-us/lynn-langit](https://mvp.microsoft.com/en-US/RD/profile/51394b4a-2523-4604-842d-ea1593be73d5)) 
 [![GCP GDE](https://github.com/lynnlangit/lynnlangit/blob/master/badges/gcp.svg)](https://developers.google.com/profile/u/lynnlangit)
 
 
