@@ -2,7 +2,7 @@
 
 ---
 
- <img src="https://github.com/lynnlangit/lynnlangit/blob/master/images/where-is-mn.png" width=300 align=right>
+<!-- <img src="https://github.com/lynnlangit/lynnlangit/blob/master/images/where-is-mn.png" width=300 align=right> -->
 
 - 👩‍💻  **CODE:** responsibly, learn more about [ethical AI](https://github.com/lynnlangit/learning-ethical-ai)
 - 👩‍🏫  **LEARN:** learning how to contribute to [computational bionformatics](https://github.com/lynnlangit/TeamTeri)
