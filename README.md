@@ -8,7 +8,7 @@
 - 👩‍🏫  **LEARN:** learning how to contribute to [computational bionformatics](https://github.com/lynnlangit/TeamTeri)
 - 🔭  **BUILD:** genomic-scale [cloud pipelines for genomics](https://lynnlangit.com/2017/09/18/genomic-scale-data-pipelines/)
 - 👯  **TEACH:** 25+ cloud & data courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit)
-- 🚴‍♀️ **BIKE:** I live in Minnesota (see map on the right) and love to bike
+- 🚴‍♀️ **BIKE:** I live in Minnesota and love to bike
 ---
  
 [![AWS Hero](https://github.com/lynnlangit/lynnlangit/blob/master/badges/aws.svg)](https://aws.amazon.com/developer/community/heroes/lynn-langit/)
