@@ -4,9 +4,9 @@
 [![MSFT RD](https://github.com/lynnlangit/lynnlangit/blob/master/badges/azure.svg)](https://mvp.microsoft.com/en-US/RD/profile/51394b4a-2523-4604-842d-ea1593be73d5) 
 [![GCP GDE](https://github.com/lynnlangit/lynnlangit/blob/master/badges/gcp.svg)](https://developers.google.com/profile/u/lynnlangit)
 
----
+<!-- ---
 
-<!-- <img src="https://github.com/lynnlangit/lynnlangit/blob/master/images/where-is-mn.png" width=300 align=right> 
+ <img src="https://github.com/lynnlangit/lynnlangit/blob/master/images/where-is-mn.png" width=300 align=right> 
 
 - ☁️  **CLOUD:** build and teach in/for/with the cloud, [100+ resouces for you](https://github.com/lynnlangit/learning-cloud)
 - 👩‍💻 **CODE:** responsibly, learn more about [ethical AI](https://github.com/lynnlangit/learning-ethical-ai)
