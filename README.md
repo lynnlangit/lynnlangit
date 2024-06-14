@@ -6,15 +6,15 @@
 
 ---
 
-<!-- <img src="https://github.com/lynnlangit/lynnlangit/blob/master/images/where-is-mn.png" width=300 align=right> -->
+<!-- <img src="https://github.com/lynnlangit/lynnlangit/blob/master/images/where-is-mn.png" width=300 align=right> 
 
 - ☁️  **CLOUD:** build and teach in/for/with the cloud, [100+ resouces for you](https://github.com/lynnlangit/learning-cloud)
 - 👩‍💻 **CODE:** responsibly, learn more about [ethical AI](https://github.com/lynnlangit/learning-ethical-ai)
 - 👩‍🏫 **LEARN:** learning how to contribute to [computational bionformatics](https://github.com/lynnlangit/TeamTeri)
 - 🔭 **BUILD:** genomic-scale [cloud pipelines for genomics](https://lynnlangit.com/2017/09/18/genomic-scale-data-pipelines/)
-- 👯 **TEACH:** 30+ cloud & data courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit)
+- 👯 **TEACH:** 30+ cloud & data courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit) -->
 
----
+
  
 
 
