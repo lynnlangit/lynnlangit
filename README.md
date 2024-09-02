@@ -18,7 +18,7 @@ Interests / Work
 - bioinformatics / cancer genomics
 - quantum computing
 - interactive tools for real-time cloud architectures
-- English coding / query / DevOps with GenAI
+- GenAI (English) coding / query / DevOps 
 
 
  
