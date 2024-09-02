@@ -14,6 +14,12 @@
 - 🔭 **BUILD:** genomic-scale [cloud pipelines for genomics](https://lynnlangit.com/2017/09/18/genomic-scale-data-pipelines/)
 - 👯 **TEACH:** 30+ cloud & data courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit) -->
 
+Interests / Work
+- bioinformatics / cancer genomics
+- quantum computing
+- interactive tools for real-time cloud architectures
+- English coding / query / DevOps with GenAI
+
 
  
 
