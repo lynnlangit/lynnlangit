@@ -15,9 +15,9 @@
 - 👯 **TEACH:** 30+ cloud & data courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit) -->
 
 Interests / Work
-- bioinformatics / cancer genomics
-- quantum computing
-- interactive tools for real-time cloud architectures
+- Bioinformatics / cancer genomics
+- Quantum computing
+- Real-time, interactive tools for designing, building, deploying and monitoring cloud architectures
 - GenAI for coding / query / DevOps / linguistics challenges
 
 
