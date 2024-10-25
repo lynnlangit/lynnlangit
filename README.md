@@ -22,8 +22,10 @@
 - Quantum computing
 - Real-time, interactive tools for designing, building, deploying and monitoring cloud architectures
 - GenAI for coding / query / DevOps / linguistics challenges
-- Bioinformatics / cancer genomics
-<img alt="Static Badge" src="https://img.shields.io/badge/nextflow-ambassador-lightgreen?style=for-the-badge&color=%2352b38f&link=https%3A%2F%2Fwww.nextflow.io%2Four_ambassadors.html">
+- Bioinformatics / cancer genomics 
+ 
+[![NF Ambassador](https://img.shields.io/badge/nextflow-ambassador-lightgreen?style=for-the-badge&color=%2352b38f)](https://www.nextflow.io/our_ambassadors.html)
+
 
 
 
