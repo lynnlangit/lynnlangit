@@ -1,8 +1,12 @@
-### Cloud Architect Who Codes
+## Cloud Architect Who Codes
 
 [![AWS Hero](https://github.com/lynnlangit/lynnlangit/blob/master/badges/aws.svg)](https://aws.amazon.com/developer/community/heroes/lynn-langit/)
 [![MSFT RD](https://github.com/lynnlangit/lynnlangit/blob/master/badges/azure.svg)](https://mvp.microsoft.com/en-US/RD/profile/51394b4a-2523-4604-842d-ea1593be73d5) 
 [![GCP GDE](https://github.com/lynnlangit/lynnlangit/blob/master/badges/gcp.svg)](https://developers.google.com/profile/u/lynnlangit)
+
+- AWS Data Hero
+- MSFT Regional Director
+- GCP Developer Expert (Cloud/AI)
 
 <!-- ---
 
@@ -14,11 +18,14 @@
 - 🔭 **BUILD:** genomic-scale [cloud pipelines for genomics](https://lynnlangit.com/2017/09/18/genomic-scale-data-pipelines/)
 - 👯 **TEACH:** 30+ cloud & data courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit) -->
 
-Interests / Work
-- Bioinformatics / cancer genomics
+### Interests / Work  
 - Quantum computing
 - Real-time, interactive tools for designing, building, deploying and monitoring cloud architectures
 - GenAI for coding / query / DevOps / linguistics challenges
+- Bioinformatics / cancer genomics
+<img alt="Static Badge" src="https://img.shields.io/badge/nextflow-ambassador-lightgreen?style=for-the-badge&color=%2352b38f&link=https%3A%2F%2Fwww.nextflow.io%2Four_ambassadors.html">
+
+
 
 
  
