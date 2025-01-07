@@ -4,6 +4,8 @@
 [![MSFT RD](https://github.com/lynnlangit/lynnlangit/blob/master/badges/azure.svg)](https://mvp.microsoft.com/en-US/RD/profile/51394b4a-2523-4604-842d-ea1593be73d5) 
 [![GCP GDE](https://github.com/lynnlangit/lynnlangit/blob/master/badges/gcp.svg)](https://developers.google.com/profile/u/lynnlangit)
 
+### Partner Awards (for Technical Education Content)
+
 - AWS Data Hero
 - MSFT Regional Director
 - GCP Developer Expert (Cloud & GenAI)
