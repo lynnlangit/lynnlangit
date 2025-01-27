@@ -21,10 +21,10 @@
 - 👯 **TEACH:** 30+ cloud & data courses on LinkedIn Learning [cloud topics](https://www.linkedin.com/learning/instructors/lynn-langit) -->
 
 ### Interests / Work  
-- Quantum computing
-- Real-time, interactive tools for designing, building, deploying and monitoring cloud architectures
-- GenAI for coding / query / DevOps / linguistics challenges
-- Bioinformatics / cancer genomics 
+- [Quantum Cloud Computing](https://github.com/lynnlangit/learning-quantum)
+- [Real-time, interactive tools for designing, building, deploying and monitoring cloud architectures](https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS/1_Viz-Systems)
+- [GenAI for coding / query / DevOps / linguistics challenges](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM)
+- [Cloud Bioinformatics / cancer genomics](https://github.com/lynnlangit/gcp-for-bioinformatics) 
  
 [![NF Ambassador](https://img.shields.io/badge/nextflow-ambassador-lightgreen?style=for-the-badge&color=%2352b38f)](https://www.nextflow.io/our_ambassadors.html)
 
