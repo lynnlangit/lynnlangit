@@ -3,7 +3,7 @@
 ### My Partner Awards (for Technical Education Content)
 
 - [MSFT Regional Director](https://mvp.microsoft.com/en-US/RD/profile/51394b4a-2523-4604-842d-ea1593be73d5) 
-- [GCP Developer Expert (Cloud & GenAI)](https://developers.google.com/profile/u/lynnlangit)
+- [GCP Developer Expert (Cloud & AI)](https://developers.google.com/profile/u/lynnlangit)
 
 <!-- ---
 
@@ -18,10 +18,10 @@
 ### Interests / Work  
 - [Quantum Cloud Computing](https://github.com/lynnlangit/learning-quantum)
 - [Real-time, interactive tools for designing, building, deploying and monitoring cloud architectures](https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS/1_Viz-Systems)
-- [GenAI for coding / query / DevOps / linguistics challenges](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM)
+- [AI for coding / query / DevOps / linguistics challenges](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM)
 - [Cloud Bioinformatics / cancer genomics](https://github.com/lynnlangit/gcp-for-bioinformatics) 
  
-[![NF Ambassador](https://img.shields.io/badge/nextflow-ambassador-lightgreen?style=for-the-badge&color=%2352b38f)](https://www.nextflow.io/our_ambassadors.html)
+
 
 
 
