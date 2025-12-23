@@ -1,8 +1,5 @@
 ## Cloud AI Architect Who Codes
 
-[![MSFT RD](https://github.com/lynnlangit/lynnlangit/blob/master/badges/azure.svg)](https://mvp.microsoft.com/en-US/RD/profile/51394b4a-2523-4604-842d-ea1593be73d5) 
-[![GCP GDE](https://github.com/lynnlangit/lynnlangit/blob/master/badges/gcp.svg)](https://developers.google.com/profile/u/lynnlangit)
-
 ### My Partner Awards (for Technical Education Content)
 
 - [MSFT Regional Director](https://mvp.microsoft.com/en-US/RD/profile/51394b4a-2523-4604-842d-ea1593be73d5) 
