@@ -1,4 +1,4 @@
-## Cloud AI Architect Who Codes
+<img src="https://github.com/lynnlangit/lynnlangit/blob/master/images/github-infographic.png">
 
 
 ### Interests / Work  
