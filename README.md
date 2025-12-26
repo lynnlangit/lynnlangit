@@ -2,10 +2,10 @@
 
 
 ### Interests / Work  
-- [Quantum Cloud Computing](https://github.com/lynnlangit/learning-quantum)
-- [Real-time, interactive tools for designing, building, deploying and monitoring cloud architectures](https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS/1_Viz-Systems)
-- [AI for coding / query / DevOps / linguistics challenges](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM)
-- [Cloud Bioinformatics / cancer genomics](https://github.com/lynnlangit/gcp-for-bioinformatics)
+- 🧠 [Personalized Patient Analysis with AI Agents [MCP]](https://github.com/lynnlangit/precision-medicine-mcp)
+- 🧬 [Cloud Bioinformatics / cancer genomics](https://github.com/lynnlangit/gcp-for-bioinformatics)
+- ⚛️ [Quantum Cloud Computing](https://github.com/lynnlangit/learning-quantum)
+- 👁️ [Real-time, interactive tools for designing, building, deploying and monitoring cloud architectures](https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS/1_Viz-Systems)
 
 ### My Partner Awards (for Technical Education Content)
 
