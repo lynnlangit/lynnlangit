@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/✨_Quantum_&_AI-BCAAA4?style=for-the-badge">
     </th>
     <th width="25%">
-      <img src="https://img.shields.io/badge/✨_Food_&_AI-A5D6A7?style=for-the-badge">
+      <img src="https://img.shields.io/badge/✨_Agriculture_&_AI-A5D6A7?style=for-the-badge">
     </th>
   </tr>
   <tr>
